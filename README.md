@@ -1,35 +1,40 @@
-# IDD-Fa18-Final-Project - Jam Box
-
-**Motivation and Project Idea**
+# Motivation and Project Idea
 
 We both love music and know how fun playing with other people can be, because of this, we wanted to make a device that would help novice or intermediate players jam with their friends, our solution is a device which maps the white keys on a keyboard according to a scale selected by the user. We also believe that this project could serve as inspiration for people to learn an instrument, as they would experience the feeling of making a good melody even if they haven't practiced or studied before.
 
-**Team**
+# Team
 
 Ben Hwang bwh57@cornell.edu
+
 Manuel Viejo mv456@cornell.edu
 
-**Paper prototype**
+# Paper prototype
 
 ![Paper prototype](https://github.com/mviejo33/jam-box/blob/master/jambox.png)
 
 ![Paper prototype](https://github.com/mviejo33/jam-box/blob/master/jambox1.png)
 
-**State diagram**
+# State diagram
 
 ![State diagram](https://github.com/mviejo33/jam-box/blob/master/jambox2.png)
 
-**Expected parts**
+# Expected parts
 
 Audio female jack
+
 MIDI to MIDI cable
+
 MIDI female connector
+
 USB to Micro USB cable
+
 Cardboard box
+
 LCD Screen 16x2
+
 Arduino (inside the box)
 
-**Interaction plan**
+# Interaction plan
 
 The user will rotate the rotary encoder and select the scale in which they want to play. There are two scenarios:
 
@@ -37,11 +42,11 @@ Alone: The user plays over a song that is being played, the user must know the k
 
 Jam with a friend: A friend tells the user in which key he/she is going to play so that the user can select the key on our device.
 
-**Building**
-![Building](https://github.com/mviejo33/jam-box/blob/master/building.png)
+# Building
+![Building](https://github.com/mviejo33/jam-box/blob/master/building.jpg)
 
-![Building1](https://github.com/mviejo33/jam-box/blob/master/building1.png)
+![Building1](https://github.com/mviejo33/jam-box/blob/master/building1.jpg)
 
-**The final result**
+# The final result
 
-![Finished](https://github.com/mviejo33/jam-box/blob/master/finished.png)
+![Finished](https://github.com/mviejo33/jam-box/blob/master/finished.jpg)
