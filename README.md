@@ -53,4 +53,6 @@ Jam with a friend: A friend tells the user in which key he/she is going to play 
 
 # Jambox in action
 
+If you listen carefully you'll notice that everything she played sounded good even though she was randomly pressing the white keys
+
 https://www.youtube.com/watch?v=Ca4sAls0t0Y
