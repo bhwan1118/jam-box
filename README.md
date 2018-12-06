@@ -10,13 +10,13 @@ Manuel Viejo mv456@cornell.edu
 
 # Paper prototype
 
-![Paper prototype](https://github.com/mviejo33/jam-box/blob/master/jambox.png)
+<img src="https://github.com/mviejo33/jam-box/blob/master/jambox.png" width="500">
 
-![Paper prototype](https://github.com/mviejo33/jam-box/blob/master/jambox1.png)
+<img src="https://github.com/mviejo33/jam-box/blob/master/jambox1.png" width="500">
 
 # State diagram
 
-![State diagram](https://github.com/mviejo33/jam-box/blob/master/jambox2.png)
+<img src="https://github.com/mviejo33/jam-box/blob/master/jambox2.png" width="500">
 
 # Expected parts
 
