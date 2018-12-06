@@ -50,3 +50,7 @@ Jam with a friend: A friend tells the user in which key he/she is going to play 
 # The final result
 
 ![Finished](https://github.com/mviejo33/jam-box/blob/master/finished.jpg)
+
+# Jambox in action
+
+https://www.youtube.com/watch?v=Ca4sAls0t0Y
