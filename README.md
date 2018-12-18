@@ -59,13 +59,17 @@ Jam with a friend: A more musically experienced friend tells the user which key 
 
 # Jambox in action
 
-If you listen carefully you'll notice that everything she played sounded good even though she was randomly pressing the white keys
+If you listen carefully you'll notice that everything she played sounds good even though she was randomly pressing the white keys!
 
-https://www.youtube.com/watch?v=Ca4sAls0t0Y
+[Example 1:](https://www.youtube.com/watch?v=Ca4sAls0t0Y)
+
+[Example 2:]
 
 # References: 
 https://www.instructables.com/id/The-Arduino-Synthesizer/
+
 https://www.pjrc.com/teensy/td_libs_MIDI.html
+
 https://learn.adafruit.com/adafruit-arduino-lesson-10-making-sounds/playing-a-scale
 
 
