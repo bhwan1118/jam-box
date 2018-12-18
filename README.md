@@ -81,6 +81,12 @@ https://www.youtube.com/watch?v=Ca4sAls0t0Y
 Example 2:
 
 
+# Code:
+
+[Arduino Code](https://github.com/bhwan1118/jam-box/blob/master/MIDI_FInal.ino)
+
+[Sample Scale Generation Logic](https://github.com/bhwan1118/jam-box/blob/master/ScaleGenerator.ipynb)
+
 
 # References: 
 https://www.instructables.com/id/The-Arduino-Synthesizer/
