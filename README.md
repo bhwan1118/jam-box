@@ -1,6 +1,8 @@
 # Motivation and Project Idea
 
-We both love music and know how fun playing with other people can be, because of this, we wanted to make a device that would help novice or intermediate players jam with their friends, our solution is a device which maps the white keys on a keyboard according to a scale selected by the user. We also believe that this project could serve as inspiration for people to learn an instrument, as they would experience the feeling of making a good melody even if they haven't practiced or studied before.
+As music lovers, we know how much fun jamming with other people can be and because of this shared passion, we wanted to make a device that would help novice or intermediate players jam with their friends. Our solution is a device which remaps the white keys on a MIDI keyboard according to a key and scale selected by the user. We believe that this project will serve as inspiration for beginners to study music fruther, intermediate players to learn improvisation skills, and advanced players to experiment with using a variety of scales in a given key.
+
+Overall, we want people of all skill levels to experience the joy of making music with others!
 
 # Team
 
