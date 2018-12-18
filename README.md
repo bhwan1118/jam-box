@@ -49,6 +49,10 @@ Alone: The user plays over a song or backing track that is being played. This re
 Jam with a friend: A more musically experienced friend tells the user which key he/she is going to play so that the user can select the key on our device and experiment with different scales.
 
 # Building
+![Breadboarding](https://github.com/bhwan1118/jam-box/blob/master/Building0.jpg)
+
+![Positioning](https://github.com/bhwan1118/jam-box/blob/master/Building00.jpg)
+
 ![Building](https://github.com/mviejo33/jam-box/blob/master/building.jpg)
 
 ![Building1](https://github.com/mviejo33/jam-box/blob/master/building1.jpg)
@@ -61,9 +65,13 @@ Jam with a friend: A more musically experienced friend tells the user which key 
 
 If you listen carefully you'll notice that everything she played sounds good even though she was randomly pressing the white keys!
 
-[Example 1:](https://www.youtube.com/watch?v=Ca4sAls0t0Y)
+Example 1:
 
-[Example 2:]
+https://www.youtube.com/watch?v=Ca4sAls0t0Y
+
+Example 2:
+
+
 
 # References: 
 https://www.instructables.com/id/The-Arduino-Synthesizer/
