@@ -49,11 +49,20 @@ Alone: The user plays over a song or backing track that is being played. This re
 Jam with a friend: A more musically experienced friend tells the user which key he/she is going to play so that the user can select the key on our device and experiment with different scales.
 
 # Building
+
+Initial Breadboard:
+
 ![Breadboarding](https://github.com/bhwan1118/jam-box/blob/master/Building0.jpg)
+
+Consolidating into smaller circuit for housing:
 
 ![Positioning](https://github.com/bhwan1118/jam-box/blob/master/Building00.jpg)
 
+Housing angle 1:
+
 ![Building](https://github.com/mviejo33/jam-box/blob/master/building.jpg)
+
+Housing angle 2:
 
 ![Building1](https://github.com/mviejo33/jam-box/blob/master/building1.jpg)
 
